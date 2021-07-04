@@ -1,7 +1,6 @@
 C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Entities\bin\Debug\netcoreapp3.1\HotelFinder.Entities.deps.json
 C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Entities\bin\Debug\netcoreapp3.1\HotelFinder.Entities.dll
 C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Entities\bin\Debug\netcoreapp3.1\HotelFinder.Entities.pdb
-C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Entities\obj\Debug\netcoreapp3.1\HotelFinder.Entities.csproj.AssemblyReference.cache
 C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Entities\obj\Debug\netcoreapp3.1\HotelFinder.Entities.AssemblyInfoInputs.cache
 C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Entities\obj\Debug\netcoreapp3.1\HotelFinder.Entities.AssemblyInfo.cs
 C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Entities\obj\Debug\netcoreapp3.1\HotelFinder.Entities.csproj.CoreCompileInputs.cache

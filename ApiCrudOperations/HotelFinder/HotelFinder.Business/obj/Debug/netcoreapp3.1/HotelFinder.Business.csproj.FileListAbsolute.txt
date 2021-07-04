@@ -1,0 +1,14 @@
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.csproj.AssemblyReference.cache
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.AssemblyInfoInputs.cache
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.AssemblyInfo.cs
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.csproj.CoreCompileInputs.cache
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Business.deps.json
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Business.dll
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Business.pdb
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.dll
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Entities.dll
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.pdb
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Entities.pdb
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.csproj.CopyComplete
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.dll
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.pdb

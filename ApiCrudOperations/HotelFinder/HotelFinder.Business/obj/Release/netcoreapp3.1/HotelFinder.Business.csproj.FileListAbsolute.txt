@@ -1,0 +1,4 @@
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Business\obj\Release\netcoreapp3.1\HotelFinder.Business.csproj.AssemblyReference.cache
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Business\obj\Release\netcoreapp3.1\HotelFinder.Business.AssemblyInfoInputs.cache
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Business\obj\Release\netcoreapp3.1\HotelFinder.Business.AssemblyInfo.cs
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.Business\obj\Release\netcoreapp3.1\HotelFinder.Business.csproj.CoreCompileInputs.cache

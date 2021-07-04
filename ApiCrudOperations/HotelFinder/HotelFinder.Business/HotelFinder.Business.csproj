@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HotelFinder.DataAccess\HotelFinder.DataAccess.csproj" />
+    <ProjectReference Include="..\HotelFinder.Entities\HotelFinder.Entities.csproj" />
+  </ItemGroup>
+
 </Project>

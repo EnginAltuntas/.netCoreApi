@@ -1,4 +1,5 @@
 ﻿using HotelFinder.Business.Abstract;
+using HotelFinder.DataAccess;
 using HotelFinder.DataAccess.Abstract;
 using HotelFinder.DataAccess.Concrete;
 using HotelFinder.Entities;
@@ -12,9 +13,9 @@ namespace HotelFinder.Business.Concrete
     public class HotelManager : IHotelService
     {
         private IHotelRepository _hotelRepository;
-        public HotelManager()
+        public HotelManager(IHotelRepository hotelRepository)
         {
-            _hotelRepository = new HotelRepository();
+            _hotelRepository = hotelRepository;
         }
 
         public Hotel CreateHotel(Hotel hotel)

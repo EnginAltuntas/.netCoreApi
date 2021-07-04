@@ -1,0 +1,15 @@
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.DataAccess\bin\Release\netcoreapp3.1\HotelFinder.DataAccess.deps.json
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.DataAccess\bin\Release\netcoreapp3.1\HotelFinder.DataAccess.runtimeconfig.json
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.DataAccess\bin\Release\netcoreapp3.1\HotelFinder.DataAccess.runtimeconfig.dev.json
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.DataAccess\bin\Release\netcoreapp3.1\HotelFinder.DataAccess.dll
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.DataAccess\bin\Release\netcoreapp3.1\HotelFinder.DataAccess.pdb
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.DataAccess\bin\Release\netcoreapp3.1\HotelFinder.Entities.dll
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.DataAccess\bin\Release\netcoreapp3.1\HotelFinder.Entities.pdb
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.DataAccess\obj\Release\netcoreapp3.1\HotelFinder.DataAccess.csproj.AssemblyReference.cache
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.DataAccess\obj\Release\netcoreapp3.1\HotelFinder.DataAccess.AssemblyInfoInputs.cache
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.DataAccess\obj\Release\netcoreapp3.1\HotelFinder.DataAccess.AssemblyInfo.cs
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.DataAccess\obj\Release\netcoreapp3.1\HotelFinder.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.DataAccess\obj\Release\netcoreapp3.1\HotelFinder.DataAccess.csproj.CopyComplete
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.DataAccess\obj\Release\netcoreapp3.1\HotelFinder.DataAccess.dll
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.DataAccess\obj\Release\netcoreapp3.1\HotelFinder.DataAccess.pdb
+C:\Users\engin\Desktop\.Net Core\.net-Core\ApiCrudOperations\HotelFinder\HotelFinder.DataAccess\obj\Release\netcoreapp3.1\HotelFinder.DataAccess.genruntimeconfig.cache
