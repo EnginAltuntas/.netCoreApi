@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1TOgs6OhGSjWs8Aj3qtEyubW4EX9Ozfo006yWFxgKJBTmvij4Ub94TNGI50izWpsLNeahaxUpCx8md8Lhcok6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\engin\\Desktop\\.Net Core\\firstCoreApiProject\\firstCoreApiProject\\firstCoreApiProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\engin\\.nuget\\packages\\bogus\\33.0.2\\bogus.33.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
